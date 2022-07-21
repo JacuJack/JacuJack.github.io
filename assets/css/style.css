@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(167, 211, 212);
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+#banner {
+    background-image: url(/assets/img/vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.carousel-item img {
+    padding-bottom: 80px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: rgb(97, 169, 77);
+}
+
+
